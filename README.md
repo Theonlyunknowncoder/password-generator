@@ -8,7 +8,7 @@ This is a simple yet effective **Strong Password Generator** built using **Java*
 
 - Generates random and secure passwords
 - Includes:
-  - Uppercase letters
+  - Uppercase letters 
   - Lowercase letters
   - Numbers
   - Symbols
